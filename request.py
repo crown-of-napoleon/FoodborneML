@@ -1,6 +1,7 @@
 # ll: 40.78,-73.97
 # radius: 3000
 # categories: 13000
+# category-restaurants: 13065
 # fields: name,tips
 
 import requests
