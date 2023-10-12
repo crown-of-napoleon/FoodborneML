@@ -1,3 +1,8 @@
+# ll: 40.78,-73.97
+# radius: 3000
+# categories: 13000
+# fields: name,tips
+
 import requests
 
 url = "https://api.foursquare.com/v3/places/search?ll=40.78%2C-73.97&radius=3000&categories=13000&fields=name%2Ctips"
